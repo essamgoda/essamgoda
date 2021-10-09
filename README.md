@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **deep visual odometry for autonomous vehicles**
 
-- 🌱 I’m currently learning **low level TensorFlow, PyTorch,and MLFlow**
+- 🌱 I’m currently learning **computer vision with c++,and MLFlow**
 
 - 📫 How to reach me **e.goda3@gmail.con, (skype) esam.goda3**
 
