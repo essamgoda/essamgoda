@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essam Goda</h1>
-<h3 align="center">I'm a member of the Scientific Research Group in Egypt (SRGE). works as a software engineer in Etisalat Misr. my development interests are web applications using (java & python) and Mobile application using Native Android.I'm doing a master's degree in computer science at Computing and Information Technology faculty, AASTMT. my research interests are deep learning, computer vision, Blockchain Technology, and Space Science &Satellites.</h3>
+<h3 align="center">My name is Essam Goda, a Computer Science MSc student, Experience designing, creating, and deploying high-traffic real-world solutions. Also, I have excelled at designing and developing deep learning and computer vision systems in different applications such as (Space Science & Satellites, SLAM, visual odometry). Passionate about technology, science, and learning new things.</h3>
 
 - 🔭 I’m currently working on **deep visual odometry for autonomous vehicles**
 
